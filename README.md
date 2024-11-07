@@ -1,18 +1,33 @@
-## EX 3 RAILWAY RESERVATION SYSTEM
+# Railway-Reservation-System
 
-## AIM: 
-To create UML Diagrams for Railway reservation system using StarUML.
-## USE CASE DIAGRAM
-![Screenshot 2024-10-18 105746](https://github.com/user-attachments/assets/e1b6e0ef-5eea-485b-8ac9-01cf495e0547)
+# NAME:DEEPAK R
+# REG:212223040031
 
-## CLASS DIAGRAM
-![Screenshot 2024-10-18 105829](https://github.com/user-attachments/assets/2f3f46a9-7c94-49cb-ba9d-98844fd0e15a)
 
-## SEQUENCE DIAGRAM
-![Screenshot 2024-10-18 105859](https://github.com/user-attachments/assets/20ff8306-f040-486c-9bb3-0bfa3a921893)
+# USECASE DIAGRAM:
 
-## ACTIVITY DIAGRAM
-![Screenshot 2024-10-18 105937](https://github.com/user-attachments/assets/da7b8607-bc96-48d0-87f9-6297747bcf71)
+![Screenshot 2024-10-22 200839](https://github.com/user-attachments/assets/d85fdebb-d74a-421a-b380-1f2ce0666abb)
 
-## RESULT
+# CLASS DIAGRAM:
+
+![Screenshot 2024-10-22 203844](https://github.com/user-attachments/assets/72d91ed9-e8a7-4892-8a9c-76a3fa1aab27)
+
+# ACTIVITY DIAGRAM:
+
+![WhatsApp Image 2024-10-24 at 10 55 09_574e80ca](https://github.com/user-attachments/assets/716624d6-038e-469c-a2dc-ad0d040600f1)
+
+# SEQUENCE DIAGRAM:
+
+![Screenshot 2024-10-23 141550](https://github.com/user-attachments/assets/4d0663f1-fc38-42ee-95f2-fa02f4163778)
+
+# PACKAGE DIAGRAM:
+
+![Screenshot 2024-10-22 201042](https://github.com/user-attachments/assets/516f37ad-2280-4ec7-be8c-e0682af90a87)
+
+# COMMUNICATION DIAGRAM:
+
+![WhatsApp Image 2024-10-24 at 00 06 32_3c544876](https://github.com/user-attachments/assets/bca0a25f-b956-42cf-9bdc-b5634a5d3fee)
+
+# RESULT:
+
 The UML Diagrams for Railway reservation system have been successfully created and implemented using StarUML.
