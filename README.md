@@ -1,7 +1,7 @@
 # Railway-Reservation-System
 
-## Name: MOONESH P
-## Reg no: 212223230126
+## Name: DEEPAK.R
+## Reg no: 212223040031
 
 ## USE CASE DIAGRAM
 ![Screenshot 2024-10-18 105746](https://github.com/user-attachments/assets/e1b6e0ef-5eea-485b-8ac9-01cf495e0547)
